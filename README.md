@@ -1,5 +1,6 @@
 # Preview
-![Design and Development](https://github.com/JunaidShamnad/SignIn-SignUp-Form/blob/main/img/Login%20%26%20Registration%20Form.png)
 
-# Login-Registration-Form
+this is my portfolia website 
+im mr shabani from TANZANIA 
+
 Responsive Login &amp; Registration Form Using HTML &amp; CSS &amp; JS .Sliding Sign In &amp; Sign Up Form
