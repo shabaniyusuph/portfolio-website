@@ -65,6 +65,8 @@ $(document).ready(function() {
             alert("Password must be at least 8 characters and contain a special character.");
             event.preventDefault();
         }
+      $("#registrationForm")[0].reset();
+  
     });
 });
 
