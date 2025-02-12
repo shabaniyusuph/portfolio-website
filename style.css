@@ -451,7 +451,7 @@ footer p {
     color: white;
     padding: 10px;
 }
-
+/*
 .nav-links {
     list-style: none;
     display: flex;
@@ -465,7 +465,7 @@ footer p {
     color: white;
     text-decoration: none;
 }
-
+*/
 form {
     max-width: 500px;
     margin: auto;
@@ -485,5 +485,6 @@ input, select {
     background-color: #1F3FC3;
     padding: 10px;
     border: none;
+    border-radius: 10px;
     
 }
