@@ -440,3 +440,50 @@ footer {
 footer p {
   text-align: center;
 }
+
+
+/* REG PAGE */
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    background: #1F3FC3;
+    color: white;
+    padding: 10px;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+}
+
+.nav-links li {
+    margin-right: 20px;
+}
+
+.nav-links a {
+    color: white;
+    text-decoration: none;
+}
+
+form {
+    max-width: 500px;
+    margin: auto;
+    background: #f4f4f4;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+input, select {
+    display: block;
+    width: 100%;
+    margin: 10px 0;
+    padding: 8px;
+}
+
+.reg-button{
+    background-color: #1F3FC3;
+    padding: 10px;
+    border: none;
+    
+}
